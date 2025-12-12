@@ -1,0 +1,15 @@
+database:
+  path: "./data/inventory.db"
+
+backup:
+  enabled: true
+  interval_seconds: 300
+  directory: "./backups"
+  max_backups: 3
+
+logging:
+  level: "INFO"
+  file: "./logs/app.log"
+
+ui:
+  theme: "light"

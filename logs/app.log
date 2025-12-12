@@ -1,0 +1,87 @@
+2025-12-11 23:10:42,535 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-11 23:16:39,272 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-11 23:48:31,618 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-11 23:55:51,665 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 00:43:26,571 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 01:04:16,826 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 01:05:44,395 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 01:06:15,361 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 01:08:22,377 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 01:09:47,473 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 04:47:28,778 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 05:23:30,116 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 05:37:51,571 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 05:53:15,090 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 05:56:12,730 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 05:56:41,358 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:04:11,617 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:09:49,383 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:09:49,426 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:09:49,429 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_060949.db
+2025-12-12 06:10:32,879 [INFO] inventory_manager.db: Database connection closed
+2025-12-12 06:19:05,290 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:19:05,356 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:19:05,360 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_061905.db
+2025-12-12 06:24:07,269 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:24:07,335 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:24:07,340 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_062407.db
+2025-12-12 06:24:10,391 [WARNING] inventory_manager.gui.main_window: Failed to render barcode: get() got an unexpected keyword argument 'add_checksum'
+2025-12-12 06:24:11,266 [WARNING] inventory_manager.gui.main_window: Failed to render barcode: get() got an unexpected keyword argument 'add_checksum'
+2025-12-12 06:24:11,867 [WARNING] inventory_manager.gui.main_window: Failed to render barcode: get() got an unexpected keyword argument 'add_checksum'
+2025-12-12 06:26:03,241 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:26:03,312 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:26:03,316 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_062603.db
+2025-12-12 06:31:02,921 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_063102.db
+2025-12-12 06:34:22,836 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:34:22,902 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:34:22,907 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_063422.db
+2025-12-12 06:39:22,843 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_063922.db
+2025-12-12 06:41:08,513 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:41:08,580 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:41:08,584 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_064108.db
+2025-12-12 06:46:08,831 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_064608.db
+2025-12-12 06:51:08,859 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_065108.db
+2025-12-12 06:52:33,184 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 06:52:33,272 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 06:52:33,277 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_065233.db
+2025-12-12 06:56:01,526 [INFO] inventory_manager.db: Database connection closed
+2025-12-12 07:13:23,365 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 07:13:23,473 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 07:18:23,882 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_071823.db
+2025-12-12 07:23:23,899 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_072323.db
+2025-12-12 07:29:10,344 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 07:29:10,442 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 07:34:10,896 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_073410.db
+2025-12-12 07:37:34,726 [INFO] inventory_manager.db: Database connection closed
+2025-12-12 07:38:33,888 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 07:38:33,984 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 07:43:34,004 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_074333.db
+2025-12-12 07:48:33,948 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_074833.db
+2025-12-12 07:53:33,982 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_075333.db
+2025-12-12 07:55:36,955 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 07:57:36,363 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:04:40,844 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:04:40,898 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:05:36,798 [INFO] inventory_manager.db: Database connection closed
+2025-12-12 08:05:41,133 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:05:41,183 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:10:40,954 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_081040.db
+2025-12-12 08:14:02,209 [INFO] inventory_manager.db: Database connection closed
+2025-12-12 08:19:29,914 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:19:29,969 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:20:35,293 [INFO] inventory_manager.repositories: Created inventory item Test (48180347)
+2025-12-12 08:26:47,852 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:26:47,901 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:30:52,624 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:30:52,678 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:32:46,005 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:32:46,056 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:35:29,678 [INFO] inventory_manager.repositories: Created inventory item Test (92659480)
+2025-12-12 08:37:45,980 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_083745.db
+2025-12-12 08:42:45,985 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_084245.db
+2025-12-12 08:43:32,334 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:44:55,968 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:44:56,024 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
+2025-12-12 08:49:56,002 [INFO] inventory_manager.backup: Backup created at backups/inventory_20251212_084955.db
+2025-12-12 08:50:55,889 [INFO] inventory_manager.db: Database initialized at data/inventory.db
+2025-12-12 08:50:55,943 [INFO] inventory_manager.backup: Backup timer started: every 300 seconds
